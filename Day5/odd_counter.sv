@@ -1,15 +1,23 @@
-module odd_counter(rst,clk,out);
-  input rst,clk;
-  output [3:0]out;
+module odd_counter_tb();
+  reg rst,clk;
+  wire [3:0]out;
   
-  reg [3:0]count;
+  odd_counter o1(.*);
   
-  always@(posedge clk or posedge rst)begin
-    if(rst)
-      count=4'b0001;
-    else
-      count=count + 4'b0010;
+  initial begin
+    clk=0;
+    rst=0;
+    forever #5 clk=~clk;
   end
   
-  assign out=count;
+  initial begin
+    #5;rst=1;#3;
+    rst=0;#100;
+    $stop;
+  end
+  
+  initial begin
+    $dumpfile("file.vcd");
+    $dumpvars(0,odd_counter_tb);
+  end
 endmodule
