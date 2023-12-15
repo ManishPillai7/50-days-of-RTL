@@ -12,5 +12,5 @@ Day7 --> Dynamic Shift Register
 Day8 --> One Hot Encoding  
 Day9 --> Binary to Gray code  
 Day10 --> Up Down self-starting counter  
-Day11 -->  
+Day11 --> Parallel In Serial Out (PISO)  
 Day12 -->  
