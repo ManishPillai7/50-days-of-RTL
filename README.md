@@ -14,4 +14,4 @@ Day9 --> Binary to Gray code
 Day10 --> Up Down self-starting counter  
 Day11 --> Parallel In Serial Out (PISO)  
 Day12 --> Linear Feedback Shift Register (LFSR)  
-Day13 --> 
+Day13 --> Finite State Machine (FSM)  
