@@ -14,4 +14,7 @@ Day9 --> Binary to Gray code
 Day10 --> Up Down self-starting counter  
 Day11 --> Parallel In Serial Out (PISO)  
 Day12 --> Linear Feedback Shift Register (LFSR)  
-Day13 --> Finite State Machine (FSM)  
+Day13 --> Finite State Machine (FSM)   
+Day14 --> Sequence Detector (2 bit overlap Mealy machine for 11010011)  
+Day15 -->  
+Day16 -->
