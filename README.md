@@ -17,5 +17,5 @@ Day12 --> Linear Feedback Shift Register (LFSR)
 Day13 --> Finite State Machine (FSM)   
 Day14 --> Sequence Detector (2 bit overlap Mealy machine for 11010011)  
 Day15 --> Binary to BCD  
-Day16 --> Fixed Priority Arbiter  
+Day16 --> Priority Encoder  
 Day17 -->  
