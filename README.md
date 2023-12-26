@@ -20,5 +20,5 @@ Day15 --> Binary to BCD
 Day16 --> Priority Encoder  
 Day17 --> Fixed Priority Arbiter    
 Day18 --> Synchronizer  
-Day19 -->
-Day20 -->
+Day19 -->  
+Day20 --> Vending Machine
