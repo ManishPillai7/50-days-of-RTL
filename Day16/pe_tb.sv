@@ -1,6 +1,6 @@
 // Code your testbench here
 // or browse Examples
-module fpa_tb();
+module pe_tb();
   parameter WIDTH=8;
   reg [WIDTH-1:0]in;
   wire [WIDTH-1:0]out;
