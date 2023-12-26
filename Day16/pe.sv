@@ -1,4 +1,4 @@
-module fpa(in,out);
+module pe(in,out);
   parameter WIDTH=8;
   input [WIDTH-1:0]in;
   output reg [WIDTH-1:0]out;
