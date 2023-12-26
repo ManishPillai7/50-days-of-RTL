@@ -18,4 +18,7 @@ Day13 --> Finite State Machine (FSM)
 Day14 --> Sequence Detector (2 bit overlap Mealy machine for 11010011)  
 Day15 --> Binary to BCD  
 Day16 --> Priority Encoder  
-Day17 -->  
+Day17 --> Fixed Priority Arbiter    
+Day18 --> Synchronizer  
+Day19 -->
+Day20 -->
