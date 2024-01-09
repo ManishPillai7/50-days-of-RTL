@@ -22,3 +22,13 @@ Day17 --> Fixed Priority Arbiter
 Day18 --> Synchronizer  
 Day19 --> Vending Machine  
 Day20 --> 32Bit SRAM
+Day21 --> Designing Datapath for Multiplier   
+Day22 --> Implementation of Datapath using Verilog  
+Day23 --> Designing Controller using FSM for Multiplier   
+Day24 --> Implementation of Controller using Verilog   
+Day25 --> Testing Datapath and Controller     
+Day26 --> GCD  
+Day27 --> GCD Datapath using Verilog  
+Day28 --> GCD Controller using FSM  
+Day29 --> GCD Controller using Verilog  
+Day30 --> Testing GCD using Datapath and Controller  
