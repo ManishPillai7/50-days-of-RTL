@@ -21,7 +21,7 @@ Day16 --> Priority Encoder
 Day17 --> Fixed Priority Arbiter    
 Day18 --> Synchronizer  
 Day19 --> Vending Machine  
-Day20 --> 32Bit SRAM
+Day20 --> 32Bit SRAM  
 Day21 --> Designing Datapath for Multiplier   
 Day22 --> Implementation of Datapath using Verilog  
 Day23 --> Designing Controller using FSM for Multiplier   
