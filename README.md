@@ -32,3 +32,8 @@ Day27 --> GCD Datapath using Verilog
 Day28 --> GCD Controller using FSM  
 Day29 --> GCD Controller using Verilog  
 Day30 --> Testing GCD using Datapath and Controller  
+Day31 --> Booths Algorithm  
+Day32 --> Datapath for Booths Algorithm using Verilog  
+Day33 --> Controller for Booths Algorithm using FSM    
+Day34 --> Implementation of Controller using Verilog  
+Day35 --> Testing the Datapath and Controller  
