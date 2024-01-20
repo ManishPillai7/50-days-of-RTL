@@ -1,6 +1,7 @@
 Hello all
 
-This is my list of 100 days of RTL coding.
+This is my list of 100 days of RTL coding.  
+NOTE: FEW FILES ARE IN SYSTEM VERILOG(.sv) AND VERILOG(.v)  
 
 Day1 --> MUX with 8bit input line  
 Day2 --> Synchron and Asynchronous reset  
