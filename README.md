@@ -38,3 +38,18 @@ Day32 --> Datapath for Booths Algorithm using Verilog
 Day33 --> Controller for Booths Algorithm using FSM    
 Day34 --> Implementation of Controller using Verilog  
 Day35 --> Testing the Datapath and Controller  
+Day36 --> 
+Day37
+Day38
+Day39
+Day40
+Day41
+Day42
+Day43
+Day44
+Day45
+Day46
+Day47
+Day48
+Day49
+Day50
