@@ -52,4 +52,4 @@ Day46 --> Synthesizing Memory (Stage4).
 Day47 --> Synthesizing Write Back (Stage5).     
 Day48 --> Implementation of 2 stage clock to MIPs processor.    
 Day49 --> Testing of MIPs 32 bit processor.    
-Day50 --> Successful execution of instruction of finding nth power of a number using MIPs 32 bit processor. 
+Day50 --> Successful execution of instructions set to  find nth power of a number using MIPs 32 bit processor. 
