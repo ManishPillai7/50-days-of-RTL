@@ -39,9 +39,9 @@ Day33 --> Controller for Booths Algorithm using FSM
 Day34 --> Implementation of Controller using Verilog  
 Day35 --> Testing the Datapath and Controller.   
 Day36 --> MIPs architecture.   
-Day37 --> Understanding instruction set and register banks in MIPs. 
-Day38 --> Pipelining in MIPs. 
-Day39 --> Implementation of MIPs 32 bit processor.  
+Day37 --> Understanding instruction set and register banks in MIPs.   
+Day38 --> Pipelining in MIPs.   
+Day39 --> Implementation of MIPs 32 bit processor.    
 Day40 --> Implementation of instruction set as opcodes. 
 Day41 --> Implementation of register bank and memory for read and write.  
 Day42 --> Implementation of 5 stage pipelining in MIPs.  
