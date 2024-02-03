@@ -45,11 +45,11 @@ Day39 --> Implementation of MIPs 32 bit processor.
 Day40 --> Implementation of instruction set as opcodes.   
 Day41 --> Implementation of register bank and memory for read and write.     
 Day42 --> Implementation of 5 stage pipelining in MIPs.  
-Day43 --> Synthesizing Instruction Fetch (Stage1). 
+Day43 --> Synthesizing Instruction Fetch (Stage1).    
 Day44 --> Synthesizing Instruction Decode (Stage2).  
 Day45 --> Synthesizing Execution (Stage3).  
 Day46 --> Synthesizing Memory (Stage4).   
 Day47 --> Synthesizing Write Back (Stage5).     
-Day48 --> Implementation of 2 stage clock to MIPs processor. 
+Day48 --> Implementation of 2 stage clock to MIPs processor.    
 Day49 --> Testing of MIPs 32 bit processor.    
 Day50 --> Successful execution of instruction of finding nth power of a number using MIPs 32 bit processor. 
